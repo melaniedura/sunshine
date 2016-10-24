@@ -49,3 +49,8 @@ captures/
 
 ### Android Patch ###
 gen-external-apklibs
+.idea/compiler.xml
+.idea/misc.xml
+.idea/runConfigurations.xml
+.idea/copyright/profiles_settings.xml
+Sunshine/.idea/workspace.xml
