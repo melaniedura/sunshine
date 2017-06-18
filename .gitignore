@@ -36,10 +36,20 @@ proguard/
 # Android Studio captures folder
 captures/
 
-# Intellij
-*.iml
+# User-specific configurations
+.idea/libraries/
 .idea/workspace.xml
-.idea/libraries
+.idea/tasks.xml
+.idea/.name
+.idea/compiler.xml
+.idea/copyright/profiles_settings.xml
+.idea/encodings.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/scopes/scope_settings.xml
+.idea/vcs.xml
+.idea/gradle.xml
+*.iml
 
 # Keystore files
 *.jks
@@ -57,3 +67,4 @@ Sunshine/.idea/workspace.xml
 Sunshine/.idea/compiler.xml
 Sunshine/.idea/misc.xml
 Sunshine/.idea/copyright/profiles_settings.xml
+
